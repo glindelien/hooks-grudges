@@ -1,17 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import './App.css';
+import React from 'react';
+import Title from './components/Title.js';
 
 function App() {
-  const [title, setTitle] = useState(`Hooks + Grudges`);
-
-  useEffect(() => {
-    document.title = title;
-  }, [title]);
-
   return (
-    <div className="App">
-      {title}
-    </div>
+    <>
+      <Title />
+    </>
   );
 }
 
