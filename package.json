@@ -1,0 +1,19 @@
+{
+  "name": "hooks-grudges",
+  "version": "1.0.0",
+  "description": "React Hooks playground featuring a playful and humorous list of randomized personal grudges!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glindelien/hooks-grudges.git"
+  },
+  "author": "Grace Lindelien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glindelien/hooks-grudges/issues"
+  },
+  "homepage": "https://github.com/glindelien/hooks-grudges#readme"
+}
